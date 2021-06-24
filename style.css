@@ -1,0 +1,93 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color:white;
+    color: black;
+}
+
+.encabezado{
+    padding:25px;
+    margin:auto 0;
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+
+.marcas{
+    display: inline;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    font-size: medium;
+    float: right;
+    margin: 5px;
+    padding: 0;
+    
+
+}
+
+.titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+.titulo2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: left;
+}
+
+.parrafoNormal{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    text-align: center;
+    color: black;
+
+}
+
+.imgArticulo{
+    display:block;
+    margin:0 auto;
+}
+
+table{
+    background-color: rgba(58, 58, 240, 0.618);
+    border-collapse: separate;
+    margin: 10px;
+    text-align: justify;
+    border: black 1px solid;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+a:hover{
+   color:aqua
+}
+
+div{
+    margin: 5px;
+    padding: 5px
+}
+
+ul{
+    margin: 5px;
+}
+
+li{
+    margin: 5px;
+    padding: 0%;
+}
+
+section{
+    margin: 5px;
+}
+
+nav{
+    margin-top: 0px;
+}
